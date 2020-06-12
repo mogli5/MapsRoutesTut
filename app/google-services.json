@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "98120047674",
+    "firebase_url": "https://maps-routes-279812.firebaseio.com",
+    "project_id": "maps-routes-279812",
+    "storage_bucket": "maps-routes-279812.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:98120047674:android:f37b3a7c7da68400fb2903",
+        "android_client_info": {
+          "package_name": "com.mogli.mapsroutestut"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "98120047674-tanap6viukv6441v7nk7b9hmlrj1o8fv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBr0uguWtRtTIu6L53IwGS6G7XbcrdJGCs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "98120047674-tanap6viukv6441v7nk7b9hmlrj1o8fv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
